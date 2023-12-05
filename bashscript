@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "JAI SHREE RAM"
+
+cat >>addscript 
+
+git add .
+git commit -m "my script commit"
+git push
+
+echo "JAI SHREE RAM"
